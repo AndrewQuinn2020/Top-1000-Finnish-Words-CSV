@@ -1,12 +1,3 @@
-# Top-2000-Finnish-Words-CSV
-
-The top 2000 Finnish words with one-word translations, in CSV format to make it Anki-friendly.
-
-The source is <https://docs.google.com/spreadsheets/d/1ei0DespiGb-m4q21ddM0xnp8SpcFebfyKvr6Asg7u1U/edit#gid=2034518546>.
-
-## The list itself, for easy access
-
-```
 on,is
 ei,No
 ja,and
@@ -2007,4 +1998,3 @@ elämänsä,his life
 kelpaa,is good enough
 lähelle,close
 kumpi,which
-```
